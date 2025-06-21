@@ -34,5 +34,17 @@ This project implements a **low-cost, real-time, multilingual speech translation
 
 ---
 
+## 📄 Documentation
+
+All supporting documents are stored in the [`Documentation/`](./Documentation/) folder.
+
+| Document Type          | File Name                                                                       | Description                         |
+|------------------------|----------------------------------------------------------------------------------|-------------------------------------|
+| 📘 Project Report       | [PROJECT_REPORT[1].docx](./Documentation/PROJECT_REPORT[1].docx)                 | Detailed explanation of the project |
+| 📄 Research Paper       | [ResearchPaper-Team-11.docx](./Documentation/ResearchPaper-Team-11.docx)         | Technical research paper            |
+| 🖼️ Project Poster       | [aiot poster 2.pptx](./Documentation/aiot%20poster%202.pptx)                     | Poster for presentation             |
+| 📊 Final Presentation   | [PPT Presentation-(Team-11).pptx](./Documentation/PPT%20Presentation-(Team-11).pptx) | Final project presentation slides   |
+
+
 
 
