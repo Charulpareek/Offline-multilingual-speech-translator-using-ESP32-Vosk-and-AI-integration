@@ -46,8 +46,41 @@ All supporting documents are stored in the [`Documentation/`](./Documentation/) 
 | 🖼️ Project Poster       | [aiot poster 2.pptx](./Documentation/aiot%20poster%202.pptx)                     | Poster for presentation             |
 | 📊 Final Presentation   | [PPT Presentation-(Team-11).pptx](./Documentation/PPT%20Presentation-(Team-11).pptx) | Final project presentation slides   |
 
+## 🧩 Hardware Connections
+
+### 🔌 ESP32 Pin Connections
+
+| Component         | ESP32 Pin       | Description                            |
+|------------------|------------------|----------------------------------------|
+| **INMP441 Mic**   |                  |                                        |
+| VCC              | 3.3V             | Power                                  |
+| GND              | GND              | Ground                                 |
+| SCK              | GPIO 14          | Bit Clock                              |
+| WS               | GPIO 15          | Word Select (L/R Clock)                |
+| SD               | GPIO 32          | Serial Data (mic output)               |
+| **MAX98357A DAC** |                  |                                        |
+| VIN              | 5V               | Power                                  |
+| GND              | GND              | Ground                                 |
+| LRC              | GPIO 25          | L/R Clock                              |
+| BCLK             | GPIO 26          | Bit Clock                              |
+| DIN              | GPIO 22          | Digital Audio In from ESP32            |
+| **Speaker**       | DAC Output       | 3W speaker connected to MAX98357A      |
+
+---
+
+### 🧠 ESP32 Circuit Diagram
+![image](https://github.com/user-attachments/assets/12746648-dd57-489b-9a16-a2cb0dcb836d)
+
+
 ## 🔌 Hardware Setup
 ![WhatsApp Image 2025-06-21 at 13 58 32_4b5ef713](https://github.com/user-attachments/assets/21991b89-627d-40d4-9688-4e84bf2a5bcf)
+
+
+
+
+
+
+
 
 
 
