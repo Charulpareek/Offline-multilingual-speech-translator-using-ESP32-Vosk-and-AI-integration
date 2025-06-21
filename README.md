@@ -1,3 +1,4 @@
+
 # 🔊 AIOT Project – Offline multilingual speech translator using ESP32, Vosk, and AI integration
 
 This project implements a **low-cost, real-time, multilingual speech translation system** that works **offline** using an ESP32 microcontroller and AI-powered translation tools.
@@ -45,6 +46,8 @@ All supporting documents are stored in the [`Documentation/`](./Documentation/) 
 | 🖼️ Project Poster       | [aiot poster 2.pptx](./Documentation/aiot%20poster%202.pptx)                     | Poster for presentation             |
 | 📊 Final Presentation   | [PPT Presentation-(Team-11).pptx](./Documentation/PPT%20Presentation-(Team-11).pptx) | Final project presentation slides   |
 
+## 🔌 Hardware Setup
+![WhatsApp Image 2025-06-21 at 13 58 32_4b5ef713](https://github.com/user-attachments/assets/21991b89-627d-40d4-9688-4e84bf2a5bcf)
 
 
 
